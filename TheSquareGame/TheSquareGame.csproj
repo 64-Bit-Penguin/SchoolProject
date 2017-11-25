@@ -222,6 +222,7 @@
     <Compile Include="Assets\ButtonClick.cs" />
     <Compile Include="Assets\Death.cs" />
     <Compile Include="Assets\DeathLVL2.cs" />
+    <Compile Include="Assets\dragplayerforcheat.cs" />
     <Compile Include="Assets\GameSetting.cs" />
     <Compile Include="Assets\NextLVL.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
@@ -237,6 +238,9 @@
     <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
     <Compile Include="Assets\Scripts\TiltWindow.cs" />
     <Compile Include="Assets\SettingManager.cs" />
+    <Compile Include="Assets\SimpleDragAndDrop\Scripts\DragAndDropCell.cs" />
+    <Compile Include="Assets\SimpleDragAndDrop\Scripts\DragAndDropItem.cs" />
+    <Compile Include="Assets\SimpleDragAndDrop\Scripts\DummyControlUnit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Fonts\Jupiter\LICENSE.txt" />
