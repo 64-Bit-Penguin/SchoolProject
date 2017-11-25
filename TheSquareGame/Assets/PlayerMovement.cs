@@ -17,5 +17,6 @@ public class PlayerMovement : MonoBehaviour {
 
         transform.Translate(MoveSpeed*Input.GetAxis("Horizontal")*Time.deltaTime,0f, MoveSpeed*Input.GetAxis("Vertical") * Time.deltaTime);
 
-	}
+
+}
 }
