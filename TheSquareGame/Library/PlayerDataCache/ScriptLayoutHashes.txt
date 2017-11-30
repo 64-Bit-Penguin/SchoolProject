@@ -11,6 +11,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 af723155c251fcfa0e66530a75f3ea4c UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.dragplayerforcheat
 0bd808ce1ffd1b45a39b2496c65c8f23 Assembly-CSharp.dll:.PanelManager
 7d0aa0f64a823db9982e4fed92870a4c Assembly-CSharp.dll:.ResizePanel
 e310e9b89be2c9dc3d92fab1f69a6dad Assembly-CSharp.dll:.PlayerMovement
@@ -78,6 +79,7 @@ c63db43c730fa2cbb8ca07de15898cb6 UnityEngine.UI.dll:UnityEngine.UI.Toggle
 f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
+2e83e36c89d3b32441e2eb17bfdee20e Assembly-CSharp.dll:.DeathLVL2
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -113,7 +115,10 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DummyControlUnit
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DragAndDropItem
 847108a4f4300c8402f74cce11a88a67 Assembly-CSharp.dll:.DropMe
+0962fdfc93637eaa6302b79f026eb1ff Assembly-CSharp.dll:.DragAndDropCell
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ShowSliderValue
 5418dff5c21cdfd49e8463cd64468397 Assembly-CSharp.dll:.Death
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
