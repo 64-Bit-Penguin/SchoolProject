@@ -36,3 +36,6 @@ C:\Users\Admin\Documents\gitkraken\square\SchoolProject\TheSquareGame\Temp\bin\D
 C:\Users\Admin\Documents\gitkraken\square\SchoolProject\TheSquareGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\gitkraken\square\SchoolProject\TheSquareGame\obj\Debug\Assembly-CSharp.dll
 C:\Users\Admin\Documents\gitkraken\square\SchoolProject\TheSquareGame\obj\Debug\Assembly-CSharp.pdb
+C:\GitKraken\SchoolProject\TheSquareGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\GitKraken\SchoolProject\TheSquareGame\obj\Debug\Assembly-CSharp.dll
+C:\GitKraken\SchoolProject\TheSquareGame\obj\Debug\Assembly-CSharp.pdb

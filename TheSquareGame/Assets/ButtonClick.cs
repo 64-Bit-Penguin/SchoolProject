@@ -6,9 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class ButtonClick : MonoBehaviour
 {
+	public static float musicPos;
 
 	public void NewGameBtn(string NewGameLevel)
     {
+		
         SceneManager.LoadScene(NewGameLevel);
     }
 
@@ -21,5 +23,15 @@ public class ButtonClick : MonoBehaviour
     {
         
     }
+
+	public void SetMusicPosition(AudioSource Audio)
+	{
+		try {
+			musicPos = Audio.time;
+			print (musicPos);
+		} catch (System.Exception ex) {
+			throw new System.Exception (ex.Message);
+		}
+	}
 
 }
