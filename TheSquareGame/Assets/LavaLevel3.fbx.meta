@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: a38492b632b26c749b6878d9fd6d7c11
+timeCreated: 1512029171
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Kamera
+    100004: Launcher_1
+    100006: Launcher_2
+    100008: Launcher_3
+    100010: Launcher_4
+    100012: Launcher_5
+    100014: Launcher_6
+    100016: Launcher_7
+    100018: Launcher_8
+    100020: Lavaground
+    100022: //RootNode
+    100024: Player
+    100026: PlayerGround
+    100028: Projectile_1
+    100030: Projectile_2
+    100032: Projectile_3
+    100034: Projectile_4
+    100036: Projectile_5
+    100038: Projectile_6
+    100040: Projectile_7
+    100042: Projectile_8
+    400000: CINEMA_4D_Editor
+    400002: Kamera
+    400004: Launcher_1
+    400006: Launcher_2
+    400008: Launcher_3
+    400010: Launcher_4
+    400012: Launcher_5
+    400014: Launcher_6
+    400016: Launcher_7
+    400018: Launcher_8
+    400020: Lavaground
+    400022: //RootNode
+    400024: Player
+    400026: PlayerGround
+    400028: Projectile_1
+    400030: Projectile_2
+    400032: Projectile_3
+    400034: Projectile_4
+    400036: Projectile_5
+    400038: Projectile_6
+    400040: Projectile_7
+    400042: Projectile_8
+    2000000: CINEMA_4D_Editor
+    2000002: Kamera
+    2300000: Launcher_1
+    2300002: Launcher_2
+    2300004: Launcher_3
+    2300006: Launcher_4
+    2300008: Launcher_5
+    2300010: Launcher_6
+    2300012: Launcher_7
+    2300014: Launcher_8
+    2300016: Lavaground
+    2300018: Player
+    2300020: PlayerGround
+    2300022: Projectile_1
+    2300024: Projectile_2
+    2300026: Projectile_3
+    2300028: Projectile_4
+    2300030: Projectile_5
+    2300032: Projectile_6
+    2300034: Projectile_7
+    2300036: Projectile_8
+    3300000: Launcher_1
+    3300002: Launcher_2
+    3300004: Launcher_3
+    3300006: Launcher_4
+    3300008: Launcher_5
+    3300010: Launcher_6
+    3300012: Launcher_7
+    3300014: Launcher_8
+    3300016: Lavaground
+    3300018: Player
+    3300020: PlayerGround
+    3300022: Projectile_1
+    3300024: Projectile_2
+    3300026: Projectile_3
+    3300028: Projectile_4
+    3300030: Projectile_5
+    3300032: Projectile_6
+    3300034: Projectile_7
+    3300036: Projectile_8
+    4300000: Launcher_6
+    4300002: Projectile_6
+    4300004: Launcher_5
+    4300006: Projectile_5
+    4300008: Launcher_4
+    4300010: Projectile_4
+    4300012: Launcher_1
+    4300014: Projectile_1
+    4300016: Launcher_2
+    4300018: Projectile_2
+    4300020: Launcher_3
+    4300022: Projectile_3
+    4300024: Launcher_7
+    4300026: Projectile_7
+    4300028: Launcher_8
+    4300030: Projectile_8
+    4300032: Lavaground
+    4300034: Player
+    4300036: PlayerGround
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 1a4de845d8eb1af43922a3a3b69fe892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9b8e9c7c25ec6c64db6f942c4d404b96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lava
+    second: {fileID: 2100000, guid: 30a6491f1eafa634aba6d2d54ac607ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

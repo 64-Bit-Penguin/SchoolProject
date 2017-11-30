@@ -222,6 +222,7 @@
     <Compile Include="Assets\ButtonClick.cs" />
     <Compile Include="Assets\Death.cs" />
     <Compile Include="Assets\DeathLVL2.cs" />
+    <Compile Include="Assets\DeathLVL3.cs" />
     <Compile Include="Assets\dragplayerforcheat.cs" />
     <Compile Include="Assets\GameSetting.cs" />
     <Compile Include="Assets\NextLVL.cs" />
