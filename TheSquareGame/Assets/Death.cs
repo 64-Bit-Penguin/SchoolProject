@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class Death : MonoBehaviour
 {
-    public GameObject Player;
     public AudioSource SoundSource;
     public AudioClip Sound;
 
