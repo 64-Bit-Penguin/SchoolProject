@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 00a87314cb0c33d4fac78f5793792301
+timeCreated: 1516352072
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Coin
+    100004: Gate
+    100006: Ground
+    100008: //RootNode
+    100010: Portal
+    100012: Transporter
+    100014: Transporter_2
+    100016: Zylinder
+    400000: CINEMA_4D_Editor
+    400002: Coin
+    400004: Gate
+    400006: Ground
+    400008: //RootNode
+    400010: Portal
+    400012: Transporter
+    400014: Transporter_2
+    400016: Zylinder
+    2000000: CINEMA_4D_Editor
+    2300000: Gate
+    2300002: Ground
+    2300004: Portal
+    2300006: Transporter_2
+    2300008: Zylinder
+    3300000: Gate
+    3300002: Ground
+    3300004: Portal
+    3300006: Transporter_2
+    3300008: Zylinder
+    4300000: Portal
+    4300002: Ground
+    4300004: Gate
+    4300006: Zylinder
+    4300008: Transporter_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9b8e9c7c25ec6c64db6f942c4d404b96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rand
+    second: {fileID: 2100000, guid: a5f311cbc01c68947bc88337df402407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "R\xFCckseite"
+    second: {fileID: 2100000, guid: fdcadce8f50ee93418c5b70281565aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schneeboden
+    second: {fileID: 2100000, guid: 0fa25f886d6612648878bf6249298c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schneeboden.1
+    second: {fileID: 2100000, guid: 0fa25f886d6612648878bf6249298c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schneeboden.2
+    second: {fileID: 2100000, guid: 0fa25f886d6612648878bf6249298c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vorderseite
+    second: {fileID: 2100000, guid: 1f89798155ddfda42ba9e032ae76de6a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
