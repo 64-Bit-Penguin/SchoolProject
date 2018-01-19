@@ -16,7 +16,7 @@ public class PlayerMovement : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		rb = GetComponent <Rigidbody>();
-		MoveSpeed = 2f;
+		MoveSpeed = MoveSpeed;
 		JumpHeight = 4f;
 		JumpEnabled = false;
 		CurrentLevel = 1;

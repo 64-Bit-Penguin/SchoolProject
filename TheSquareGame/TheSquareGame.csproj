@@ -220,6 +220,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ButtonClick.cs" />
+    <Compile Include="Assets\ChangeColors.cs" />
     <Compile Include="Assets\ColorChange.cs" />
     <Compile Include="Assets\Death.cs" />
     <Compile Include="Assets\DeathLVL2.cs" />
