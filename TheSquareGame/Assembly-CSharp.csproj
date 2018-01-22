@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\activ_particel.cs" />
      <Compile Include="Assets\ButtonClick.cs" />
      <Compile Include="Assets\ChangeColors.cs" />
      <Compile Include="Assets\ColorChange.cs" />
