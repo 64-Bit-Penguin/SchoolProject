@@ -1,33 +1,14 @@
-<<<<<<< Updated upstream
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Death.cs">
     <Files>
-      <File FileName="Assets\PlayerMovement.cs" Line="44" Column="6" />
-      <File FileName="Assets\DeathLVL2.cs" Line="6" Column="2" />
-      <File FileName="Assets\Death.cs" Line="22" Column="4" />
-      <File FileName="Assets\ColorChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Death.cs" Line="14" Column="6" />
+      <File FileName="Assets\DeathLVL2.cs" Line="9" Column="2" />
+      <File FileName="Assets\DeathLVL3.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-=======
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameSetting.cs">
-    <Files>
-      <File FileName="Assets\ButtonClick.cs" Line="1" Column="1" />
-      <File FileName="Assets\SettingManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\NextLVL.cs" Line="1" Column="1" />
-      <File FileName="Assets\Death.cs" Line="1" Column="1" />
-      <File FileName="Assets\GameSetting.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
->>>>>>> Stashed changes
 </Properties>
