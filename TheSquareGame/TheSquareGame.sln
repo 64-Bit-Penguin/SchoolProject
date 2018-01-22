@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
@@ -27,3 +32,71 @@ Global
 		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection	GlobalSection(MonoDevelopProperties) = preSolution
 EndGlobal
+=======
+<<<<<<< HEAD
+>>>>>>> f83d7eb10310b177eb74f2d311c1fcc9962f8fef
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSquareGame", "TheSquareGame.csproj", "{768345A5-0408-E293-D3EC-8D96161547C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSquareGame.Editor", "TheSquareGame.Editor.csproj", "{440A975A-D2C0-8A40-DB29-F6741514C897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768345A5-0408-E293-D3EC-8D96161547C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768345A5-0408-E293-D3EC-8D96161547C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768345A5-0408-E293-D3EC-8D96161547C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768345A5-0408-E293-D3EC-8D96161547C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440A975A-D2C0-8A40-DB29-F6741514C897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440A975A-D2C0-8A40-DB29-F6741514C897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440A975A-D2C0-8A40-DB29-F6741514C897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440A975A-D2C0-8A40-DB29-F6741514C897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSquareGame", "Assembly-CSharp.csproj", "{4888CEDC-E323-B63B-2060-16C988822CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSquareGame", "Assembly-CSharp-Editor.csproj", "{D587C399-477A-195A-E1B0-52726D4F423B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4888CEDC-E323-B63B-2060-16C988822CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4888CEDC-E323-B63B-2060-16C988822CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4888CEDC-E323-B63B-2060-16C988822CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4888CEDC-E323-B63B-2060-16C988822CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D587C399-477A-195A-E1B0-52726D4F423B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D587C399-477A-195A-E1B0-52726D4F423B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D587C399-477A-195A-E1B0-52726D4F423B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D587C399-477A-195A-E1B0-52726D4F423B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection	GlobalSection(MonoDevelopProperties) = preSolution
+EndGlobal
+<<<<<<< HEAD
+=======
+>>>>>>> 74b02fb4a8ecbe0eabf5789bc8783dce6b40e76e
+>>>>>>> master
+>>>>>>> f83d7eb10310b177eb74f2d311c1fcc9962f8fef
+>>>>>>> master
