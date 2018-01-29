@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -13,12 +12,8 @@ public class ParticleExamples {
 	public GameObject particleSystemGO;
 	public Vector3 particlePosition, particleRotation;
 }
-=======
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 
-[System.Serializable]
+/*[System.Serializable]
 public class ParticleExamples {
 
 	public string title;
@@ -27,5 +22,4 @@ public class ParticleExamples {
 	public bool isWeaponEffect;
 	public GameObject particleSystemGO;
 	public Vector3 particlePosition, particleRotation;
-}
->>>>>>> master
+}*/

@@ -142,3 +142,6 @@ C:\Users\Hendrik\Desktop\The Square Game\v2\Datein\SchoolProject\TheSquareGame\o
 C:\Users\Hendrik\Desktop\The Square Game\v2\Datein\SchoolProject\TheSquareGame\obj\Debug\Assembly-CSharp.dll
 C:\Users\Hendrik\Desktop\The Square Game\v2\Datein\SchoolProject\TheSquareGame\obj\Debug\Assembly-CSharp.pdb
 >>>>>>> master
+C:\GitKraken\BitBucket\schoolproject\TheSquareGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\GitKraken\BitBucket\schoolproject\TheSquareGame\obj\Debug\Assembly-CSharp.dll
+C:\GitKraken\BitBucket\schoolproject\TheSquareGame\obj\Debug\Assembly-CSharp.pdb

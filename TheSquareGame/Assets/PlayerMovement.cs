@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour {
 	public float JumpHeight;
 
 	public bool JumpEnabled;
+    [System.NonSerialized]
 	public bool IsJumpEnabled;
 
 	private Rigidbody rb;
@@ -15,9 +16,7 @@ public class PlayerMovement : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		rb = GetComponent <Rigidbody>();
-		MoveSpeed = 4f;
-		JumpHeight = 4f;
-		JumpEnabled = false;
+		
 	}
 
 	// Update is called once per frame

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -57,13 +56,10 @@ public class ParticleMenu : MonoBehaviour {
 
 	}
 }
-=======
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
 
-public class ParticleMenu : MonoBehaviour {
+
+
+/*public class ParticleMenu : MonoBehaviour {
 
 	// our ParticleExamples class being turned into an array of things that can be referenced
 	public ParticleExamples[] particleSystems;
@@ -115,5 +111,4 @@ public class ParticleMenu : MonoBehaviour {
 		navigationDetails.text = "" + (currentIndex+1) + " out of " + particleSystems.Length.ToString();
 
 	}
-}
->>>>>>> master
+}*/

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -85,16 +84,12 @@ public class ExtinguishableFire : MonoBehaviour
         m_isExtinguished = false;
     }
 }
-=======
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 
 
 /// <summary>
 /// This simulate an extinguishable fire, 
 /// </summary>
-public class ExtinguishableFire : MonoBehaviour
+/*public class ExtinguishableFire : MonoBehaviour
 {
     public ParticleSystem fireParticleSystem;
     public ParticleSystem smokeParticleSystem;
@@ -171,5 +166,4 @@ public class ExtinguishableFire : MonoBehaviour
         fireParticleSystem.transform.localScale = Vector3.one;
         m_isExtinguished = false;
     }
-}
->>>>>>> master
+}*/
