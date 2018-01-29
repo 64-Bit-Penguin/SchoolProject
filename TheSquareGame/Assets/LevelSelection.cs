@@ -11,6 +11,7 @@ public class LevelSelection : MonoBehaviour {
     public GameObject Lava3;
     public GameObject Snow4;
     public GameObject Snow5;
+    public GameObject Snow6;
 
     void Start () {
 
@@ -32,6 +33,8 @@ public class LevelSelection : MonoBehaviour {
             Snow4.SetActive(false);
 
             Snow5.SetActive(false);
+
+            Snow6.SetActive(false);
         }
         else if (Level_ID == 2)
         {
@@ -44,6 +47,8 @@ public class LevelSelection : MonoBehaviour {
             Snow4.SetActive(false);
 
             Snow5.SetActive(false);
+
+            Snow6.SetActive(false);
         }
         else if (Level_ID == 3)
         {
@@ -56,6 +61,8 @@ public class LevelSelection : MonoBehaviour {
             Snow4.SetActive(false);
 
             Snow5.SetActive(false);
+
+            Snow6.SetActive(false);
         }
         else if (Level_ID == 4)
         {
@@ -68,6 +75,8 @@ public class LevelSelection : MonoBehaviour {
             Snow4.SetActive(true);
 
             Snow5.SetActive(false);
+
+            Snow6.SetActive(false);
         }
         else if (Level_ID == 5)
         {
@@ -80,6 +89,22 @@ public class LevelSelection : MonoBehaviour {
             Snow4.SetActive(false);
 
             Snow5.SetActive(true);
+
+            Snow6.SetActive(false);
+        }
+        else if (Level_ID == 6)
+        {
+            Lava1.SetActive(false);
+
+            Lava2.SetActive(false);
+
+            Lava3.SetActive(false);
+
+            Snow4.SetActive(false);
+
+            Snow5.SetActive(false);
+
+            Snow6.SetActive(true);
         }
 
 
